@@ -1,0 +1,8 @@
+C:\Users\Usuario\proyectos_DSI\DSI\TPpatrones\PatronBuilder\obj\Debug\PatronBuilder.csproj.AssemblyReference.cache
+C:\Users\Usuario\proyectos_DSI\DSI\TPpatrones\PatronBuilder\obj\Debug\PatronBuilder.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\proyectos_DSI\DSI\TPpatrones\PatronBuilder\obj\Debug\PatronBuilder.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\proyectos_DSI\DSI\TPpatrones\PatronBuilder\bin\Debug\PatronBuilder.exe.config
+C:\Users\Usuario\proyectos_DSI\DSI\TPpatrones\PatronBuilder\bin\Debug\PatronBuilder.exe
+C:\Users\Usuario\proyectos_DSI\DSI\TPpatrones\PatronBuilder\bin\Debug\PatronBuilder.pdb
+C:\Users\Usuario\proyectos_DSI\DSI\TPpatrones\PatronBuilder\obj\Debug\PatronBuilder.exe
+C:\Users\Usuario\proyectos_DSI\DSI\TPpatrones\PatronBuilder\obj\Debug\PatronBuilder.pdb
